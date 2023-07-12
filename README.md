@@ -1,6 +1,6 @@
-# esp32c6-hello-world
+# esp32h2-hello-world
 
-A simple example of how to use the ESP32-C6 with the ESP-IDF and the Wokwi Simulator for Visual Studio Code.
+A simple example of how to use the ESP32-H2 with the ESP-IDF and the Wokwi Simulator for Visual Studio Code.
 
 ## Running the project
 

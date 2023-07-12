@@ -16,7 +16,7 @@ void app_main(void)
 
   esp_chip_info_t chip_info;
   esp_chip_info(&chip_info);
-  printf("This is %s chip with %d CPU core(s), WiFi%s%s%s\n",
+  printf("This is %s chip with %d CPU core(s), %s%s%s\n",
           CONFIG_IDF_TARGET,
           chip_info.cores,
           (chip_info.features & CHIP_FEATURE_BT) ? "/BT" : "",
